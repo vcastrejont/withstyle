@@ -4,6 +4,7 @@
   "description": "Stylesheet for react",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {},
